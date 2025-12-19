@@ -10,7 +10,7 @@ locations:
   - name: Boke
     lat: 10.9370
     lon: -14.2906
- - name: Coyah
+  - name: Coyah
     lat: 9.7500
     lon: -13.3833
   - name: Conakry
